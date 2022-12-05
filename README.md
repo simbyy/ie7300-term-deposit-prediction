@@ -1,10 +1,19 @@
 # ie7300-term-deposit-prediction
-IE 7300 - Fall 22 - Group 3 - Final Project
-Topic: Predicting outcome of telemarketing campaign of a Portuguese bank
+## IE 7300 - Fall 22 - Final Project
+### Group 3 
 
-Data Source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+## Authors:
+Ahmad Alsaadi
+Ankita Goyal
+Simran Bhatia
+Venkata Sai Tarun Reddy Pongulaty
 
-Abstract:
+## Topic: Predicting outcome of telemarketing campaign of a Portuguese bank
+
+## Data Source:
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+## Abstract:
 Marketing and commercialization of any capital industry has become the need of the hour. Every industry aspires to perform
 good marketing strategies for their firm so that they can make maximum profit. This is the main reason for the rise in demand
 of data analytics and data science applications across domains. This project intends to explore the nation of Portugal and study
