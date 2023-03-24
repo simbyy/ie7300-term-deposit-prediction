@@ -3,9 +3,9 @@
 ### Group 3 
 
 ## Authors:
-Ahmad Alsaadi
-Ankita Goyal
-Simran Bhatia
+Ahmad Alsaadi,
+Ankita Goyal,
+Simran Bhatia,
 Venkata Sai Tarun Reddy Pongulaty
 
 ## Topic: Predicting outcome of telemarketing campaign of a Portuguese bank
